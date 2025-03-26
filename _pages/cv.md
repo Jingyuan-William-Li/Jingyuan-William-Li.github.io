@@ -19,7 +19,7 @@ Experience
 * Sep 2022 - Jun 2024: Teaching Assistant
   * University of Glasgow
   * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., with a cover of over 1500 students
-  * Customized comprehensive reviews on lecture materials and mock exam exercise for students as final exam preparation
+  * Conducted comprehensive reviews on lecture materials and customized mock final exam exercise
   * Delivered lab instructions to students, including the utilization of SPICE software and basic applications of programming languages, etc.
 
 Skills
