@@ -13,9 +13,9 @@ title                    : "李敬元"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://jingyuan-william-li.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Jingyuan-William_Li/jingyuan-william-li.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Jingyuan (Wiliam) Li"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MS ECE @ UCSD 26'
+                      BEng EE @ UESTC 24'
+                      BEng EE (1:1) @ UoG 24'"
   location         : "La Jolla, CA, USA"
   employer         : "University of California San Diego"
   uri              : # URL
