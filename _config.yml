@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "李敬元"
+title                    : "Jingyuan Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "jingyuan.JPG"
   name             : "Jingyuan (Wiliam) Li"
-  pronouns         : # example: "she/her"  
+  pronouns         : "李敬元"  
   bio              : "Analog/Mixed-Signal IC Design"
   location         : "La Jolla, CA, USA"
   employer         : "University of California San Diego"
