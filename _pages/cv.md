@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-Education
-======
 * M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ucsd.edu/), 2026
 * B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
   * GPA: 3.77/4.0
