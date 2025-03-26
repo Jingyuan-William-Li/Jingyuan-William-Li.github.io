@@ -12,7 +12,11 @@ Education
 ======
 * M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ucsd.edu/), 2026
 * B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
-* B.Eng. (First Class Honors) in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
+  * GPA: 3.77/4.0
+  * Core Courses: Calculus (4/4), Linear Algebra (4/4), Physics (4/4), Fudanmental Analog Circuits (3.5/4), Advanced Digital Deigns and Logics (4/4), Signals and Systems (4/4), Electromagnetic Field and Mricrowave Technology (3.5/4), Final Year Project (4/4)
+* B.Eng. in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
+  * GPA: 18.26/22 (First-Class Honors)
+  * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A5), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (B1), VLSI Design (A3), Information System (A4)
 
 Experience
 ======
