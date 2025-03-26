@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+======
 Education
 ======
 * M.S. in Electrical and Computer Engineering, University of Claifornia San Diego, 2026
