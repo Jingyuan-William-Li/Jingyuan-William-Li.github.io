@@ -13,26 +13,17 @@ redirect_from:
 Education
 ======
 * M.S. in Electrical and Computer Engineering, University of Claifornia San Diego, 2026
-* B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC), 2024
-* B.Eng. (First Class Honors, Dual with UESTC) in Electronics and Electrical Engineering, University of Glasgow (UoG), 2024
+* B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China, 2024
+* B.Eng. (First Class Honors) in Electronics and Electrical Engineering, University of Glasgow, 2024
 
 Experience
 ======
 * Sep 2022 - Jun 2024: Teaching Assistant
-  * UESTC/UoG
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * University of Glasgow
+  * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., with a cover of over 1500 students
+  * Customized comprehensive reviews on lecture materials and mock exam exercise for students as final exam preparation
+  * Delivered lab instructions to students, including the utilization of SPICE software and basic applications of programming languages, etc.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Circuits Design: Cadence Virtuoso, Verilog, Altium Designer, LTspice, HFSS
