@@ -9,9 +9,17 @@ redirect_from:
 
 Hello, nice to meet you online! My name is Jingyuan Li and I'll be very happy if you could call me William! It is my great pleasure to share my experience and idea online with you! Hope that we can be good friends no matter online or personally!
 
-About Me
+My Education Background
 ======
-I am currently an M.S. Student at University of California San Diego, majoring in electrical and computer engineering, and my current focus is analog/mixed-signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the scholarship for excellect students for 3 times (once 10% level, twice 25% level), and was honored as first-class.
+I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored with First-Class.
+
+My Intrests & Skills
+======
+My current study focus is Analog/Mixed-Signal IC design. My study and research experience made me intrested in both analog and digital part of IC, no matter the sophisticated physical characteristics of MOSFETs nor the diverse logic of circuits attracts me deeply. Till now, I am quite familiar with IC development tools like Verilog HDL, Altium Designer and Cadence Virtuoso, etc. In return, the immense interest generated from my study also inspires me to improve my skills in projects beyond curriculums, including RISC CPU design, Compute-In-Memory architecture design and circuits performance evaluation.
+
+Apart from this, my diverse international summer/winter school experiences helped me expand my skill radar chart in other ECE-related fields like Artificial Intelligence and Robotics, where I mastered the utilization and synchronization of Python, MATLAB/Simulink, OriginLab and SolidWorks, etc.
+
+Moreover, I am an excellent collaborator and goot at project organization, design thinking and problem solving, which always encourage me to undertake the leader's responsibility in teamwork and manage a team with the highest efficiency.
 
 Getting started
 ======
