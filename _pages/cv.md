@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 Education
 ======
-* M.S. in Electrical and Computer Engineering, University of Claifornia San Diego, 2026
-* B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China, 2024
-* B.Eng. (First Class Honors) in Electronics and Electrical Engineering, University of Glasgow, 2024
+* M.S. in Electrical and Computer Engineering, [University of Claifornia San Diego](https://www.ece.ucsd.edu/faculty-research/ece-research-areas/electronic-circuits-systems-impacted), 2026
+* B.Eng. in Electronic Information Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), 2024
+* B.Eng. (First Class Honors) in Electronics and Electrical Engineering, [University of Glasgow](https://www.gla.ac.uk/), 2024
 
 Experience
 ======
