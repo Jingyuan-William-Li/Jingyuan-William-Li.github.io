@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * M.S. in Electrical and Computer Engineering, University of Claifornia San Diego, 2026
-* B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China, 2024
-* B.Eng. (First Class Hounor) in Electronics and Electrical Engineering, University of Glasgow, 2024
+* B.Eng. in Electronic Information Engineering, University of Electronic Science and Technology of China (UESTC), 2024
+* B.Eng. (First Class Honors, Dual with UESTC) in Electronics and Electrical Engineering, University of Glasgow (UoG), 2024
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Sep 2022 - Jun 2024: Teaching Assistant
+  * UESTC/UoG
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
@@ -34,12 +34,11 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Circuits Design: Cadence Virtuoso, Verilog, Altium Designer, LTspice, HFSS
+* Programming: C/C++, Python, MATLAB & Simulink, ASM
+* Other Fields of Engineering: Solidworks, Mbed
+* Working Effciency: Microsoft Office, Original Lab, Notion
+* Language: Chinese (Native), Engilish (Fluent), Japanese (Beginner)
 
 Publications
 ======
