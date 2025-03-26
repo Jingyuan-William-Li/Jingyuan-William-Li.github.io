@@ -25,9 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Jingyuan (Wiliam) Li"
   pronouns         : # example: "she/her"  
-  bio              : "MS ECE @ UCSD 26\n'
-                      BEng EE @ UESTC 24'\n
-                      BEng EE (1:1) @ UoG 24'"
+  bio              : "Analog/Mixed-Signal IC Design"
   location         : "La Jolla, CA, USA"
   employer         : "University of California San Diego"
   uri              : # URL
@@ -61,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : “jingyuan-li-2589342b1/”
+  linkedin         : “/jingyuan-li-2589342b1/”
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
