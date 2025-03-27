@@ -16,7 +16,7 @@ redirect_from:
   * GPA: 18.26/22 (First-Class Honors)
   * Core Courses: Microelectronics Systems (A1), Circuits Analysis and Design (A5), Embedded Processors (A5), Electronics System and Deisgn (A2), Electronic Devices (A2), Dynamics and Control (A3), Artificial Intelligience and Machine Learning (A4), Power Electronics (B1), VLSI Design (A3), Information System (A4)
 
-Experience
+Academic Experience
 ======
 * Teaching Assistant @ UoGlagow/UESTC (Sep 2022 - Jun 2024)
   * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., with a cover of over 1500 students
