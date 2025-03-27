@@ -1,7 +1,7 @@
 ---
 title: "2023 Winter Frontier Research Program – Integrated Circuits Design"
 collection: teaching
-type: "Summer School"
+type: "Winter School"
 permalink: /teaching/MIT
 venue: "Guided by Prof. Karl K. Berggren, EECS, MIT"
 date: 2023-02-26
