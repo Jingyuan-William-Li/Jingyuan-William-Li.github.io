@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Service"
+title: "Community Service"
 author_profile: true
 redirect_from: 
   - /md/
