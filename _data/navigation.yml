@@ -19,12 +19,12 @@ main:
  
   - title: "Community Service"
     url: /markdown/
-  
-  #- title: "Blog Posts"
-  #  url: /year-archive/
     
   - title: "Curriculum Vitae"
     url: /cv/
+  
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
