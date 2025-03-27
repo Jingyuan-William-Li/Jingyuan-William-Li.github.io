@@ -11,7 +11,7 @@ Hello, nice to meet you online! My name is Jingyuan Li and I'll be very happy if
 
 About My Education Background
 ------
-I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored with First-Class.
+I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
 
 About My Academic-Ralated Intrests & Skills
 ------
@@ -23,7 +23,7 @@ Moreover, I am an excellent collaborator and goot at project organization, desig
 
 About My Life
 ------
-I was born in Jiangyou, China, which is also the birth place of the most famous Chinses ancient poet, Li Bai, and that might cultivate my  great interest in reading poems, ancient articles and other kinds of literature. Presently, I am in America so I am trying to continune this hobby in Engilish in order to improve my English skills. I am an energetic person and love anything exciting, so I like watching football and car race, where Chelsea and Scrudia Ferrari are my favorite teams. However, I also enjoy peaceful life. It is always my dream to take my camera with me to travel around the world alone and record a lot of beautiful and unforgettable things.
+I was born in Jiangyou, China, which is also the birth place of the most famous Chinese ancient poet, Li Bai, and that might cultivate my  great interest in reading poems, ancient articles and other kinds of literature. Presently, I am in America so I am trying to continune this hobby in Engilish in order to improve my English skills. I am an energetic person and love anything exciting, so I like watching football and car race, where Chelsea and Scrudia Ferrari are my favorite teams. However, I also enjoy peaceful life. It is always my dream to take my camera with me to travel around the world alone and record a lot of beautiful and unforgettable things.
 
 About My Community Involvement
 ------
