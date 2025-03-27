@@ -14,14 +14,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Summer/Winter School"
-    url: /exchange
-
   - title: "Experience"
     url: /teaching/    
     
-  #- title: "Portfolio"
- #   url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
