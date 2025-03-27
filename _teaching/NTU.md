@@ -8,8 +8,8 @@ date: 2022-09-06
 location: "Singapore (Online)"
 ---
 
-* Developed an artificial intelligence model aimed at classifying pneumonia pathogens using patients’ chest CT images.
-* Treated over 18,000 chest CT scans from patients with three pathogens, namely COVID-19, SARS, and bacteria.
-* Built a CNN model comprising 3 convolutional layers, 3 max-pooling layers, a fully connected layer, and a Flatten layer.
+* Developed an CNN model aimed at classifying pneumonia pathogens using patients’ chest CT images.
+* Treated 18,000 chest CT scans from patients with COVID-19, SARS, and bacteria infected.
+* Built and optimized a CNN model with 3 convolutional layers.
 * Achieved training accuracy of 97.9% and testing accuracy of 91.8%.
-* Scored 90 and was awarded Distinction in project evaluation, the highest level attainable.
+* Scored 90 and was awarded "Distinction" in project evaluation (the highest level attainable).

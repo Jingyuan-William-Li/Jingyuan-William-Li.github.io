@@ -15,7 +15,7 @@ I am currently an M.S. Student at University of California San Diego, majoring i
 
 About My Academic-Ralated Intrests & Skills
 ------
-My current study focus is Analog/Mixed-Signal IC design. My study and research experience made me intrested in both analog and digital part of IC, no matter the sophisticated physical characteristics of MOSFETs nor the diverse logic of circuits attracts me deeply. Till now, I am quite familiar with IC development tools like Verilog HDL, Altium Designer and Cadence Virtuoso, etc. In return, the immense interest generated from my study also inspires me to improve my skills in projects beyond curriculums, including RISC CPU design, Compute-In-Memory architecture design and circuits performance evaluation.
+My current study focus is Analog/Mixed-Signal IC design. My study and research experience made me intrested in both analog and digital part of IC, where no matter the sophisticated physical characteristics of MOSFETs nor the diverse logic of circuits attracts me deeply. Till now, I am quite familiar with IC development tools like Verilog HDL, Altium Designer and Cadence Virtuoso, etc. In return, the immense interest generated from my study also inspires me to improve my skills in projects beyond curriculums, including RISC CPU design, Compute-In-Memory architecture design and circuits performance evaluation.
 
 Apart from this, my diverse international summer/winter school experiences helped me expand my skill radar chart in other ECE-related fields like Artificial Intelligence and Robotics, where I mastered the utilization and synchronization of Python, MATLAB/Simulink, OriginLab and SolidWorks, etc.
 
