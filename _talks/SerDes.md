@@ -1,11 +1,11 @@
 ---
-title: "Research on the Modeling of Computing-in-Memory Architecture with SRAM-based Macro"
+title: "Design of a 10Gb/s Tunable Voltage-Mode Transmitter Driver with 3-Tap FFE in 65nm CMOS"
 collection: talks
-type: "Project Manager, Final Year Project"
-permalink: /talks/CIM
-venue: "University of Electonic Science and Technology ogf China, Glasgow College"
-date: 2024-04-26
-location: "Chengdu, Sichuan, China"
+type: "Project Manager"
+permalink: /talks/SerDes
+venue: "University of California San Diego, Department of Electrical and Computer Engineering"
+date: 2025-03-21
+location: "San Diego, CA, USA"
 ---
 
 * Constructed a behavioral model of PT-8T SRAM in-memory-computation cell by Verilog which can perform Boolean AND operation between the data stored in that cell and an extra input.
