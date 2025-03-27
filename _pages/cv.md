@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my CV at [HERE](/files/paper1.pdf)
+Download my CV [HERE](/files/paper1.pdf)~
 
 Education
 -------
@@ -47,7 +47,7 @@ Projects
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Experience
+Extracurriculum
 ------
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}

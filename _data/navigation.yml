@@ -15,10 +15,10 @@ main:
     url: /publications/
     
   - title: "Extracurriculum"
-    url: /portfolio/
-    
-  - title: "Experience"
     url: /teaching/    
+ 
+  - title: "Service"
+    url: /portfolio/
   
   - title: "Blog Posts"
     url: /year-archive/
