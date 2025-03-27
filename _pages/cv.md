@@ -23,8 +23,8 @@ Education
 Academic/Professional Experience
 ------
 * Teaching Assistant @ UoGlagow/UESTC (Sep 2022 - Jun 2024)
-  * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., with a cover of over 1500 students
-  * Conducted comprehensive reviews on lecture materials and customized mock final exam exercise
+  * Monitored 3 courses, including Microelectronics Systems, Circuits Analysis & Design, and Embedded Processors, responsible for question feedback, course tutorial delivery and assignment evaluation, etc., with a cover of over 1500 students.
+  * Conducted comprehensive reviews on lecture materials and customized mock final exam exercise. 
   * Delivered lab instructions to students, including the utilization of SPICE software and basic applications of programming languages, etc.
 
 Skills
