@@ -14,7 +14,7 @@ UESTC, Chengdu, Sichuan, China
 * Provided over 100 sessions of personalized consultations for students facing academic or mental challenges.
 * Awarded as Excellent Freshman Tutor and Excellent Peer Consultant for my contribution.
 
-Chief Counsellor Assistant (Oct 2021 - Jun 2024)
+Chief Counselor Assistant (Oct 2021 - Jun 2024)
 ------
 UESTC, Chengdu, Sichuan, China
 * Oversaw WeHelp, a work-study group of 48 students that supports college counselors in student issues. The team was recognized as a Model Work-Study Organization by UESTC.
