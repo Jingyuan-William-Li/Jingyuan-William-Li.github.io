@@ -11,7 +11,7 @@ Hello, nice to meet you online! My name is Jingyuan Li and I'll be very happy if
 
 About My Education Background
 ------
-I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
+I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30, Project 985) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
 
 About My Academic-Ralated Intrests & Skills
 ------
