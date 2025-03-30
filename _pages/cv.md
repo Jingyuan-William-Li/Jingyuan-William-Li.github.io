@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my CV/Resume [HERE](/files/paper1.pdf) ~
+Download my CV/Resume [HERE](/files/JingyuanLi_Resume.pdf) ~
 
 Education
 -------
