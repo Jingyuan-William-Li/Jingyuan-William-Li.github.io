@@ -6,13 +6,13 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-“A single act of kindness throws out roots in all directions, and the roots spring up to make new trees！”
+“A single act of kindness throws out roots in all directions, and the roots spring up to make new trees!”
 
 Freshman Mentor (Sep 2022 - Jun 2024)
 ------
 Glasgow College, UESTC, Chengdu, Sichuan, China
 * Guided a class of 40 first-year students, providing over 100 hours of mentorship as they navigate through their college journey.
-* Customized workshops for my students based on my own knowlegde and experiments, including topics like presentation skills and how to use some engineering software.
+* Customized workshops for my students based on my own knowlegde and experiences, including topics like presentation skills and how to use some engineering software.
 * Awarded as Excellent Freshman Tutor and my freshman class was awarded as a Model Class of UESTC.
 
 Peer Advisor (Nov 2022 - Jun 2024)
