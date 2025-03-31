@@ -13,7 +13,7 @@ My Journey in Study
 ------
 I am currently an M.S. Student at University of California San Diego, majoring in Electrical and Computer Engineering, and my current focus is Analog/Mixed-Signal integrated circuit design. 
 
-Before I come to America, I was educated with a dual-degree undergraduate program hold by University of Electronic Sience and Technology of China (UESTC, Chinese Top 30, Project 985) and University of Glasgow (UoG, QS 78) in the field of electronics and electrical engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
+Before I come to America, I was educated with a dual-degree undergraduate program hold by the University of Electronic Sience and Technology of China (UESTC, Chinese Top 30, Project 985) and the University of Glasgow (UoG, QS 78) in the field of Electronics and Electrical Engineering, where I received the Scholarship for Excellect Students for 3 times (once 10% level, twice 25% level), and was honored as First-Class before graduation.
 
 Intrests & Skills
 ------
