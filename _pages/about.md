@@ -21,7 +21,7 @@ My current study focus is Analog/Mixed-Signal IC design. My study and research e
 
 Apart from this, my diverse international summer/winter school experiences helped me expand my skill radar chart in other ECE-related fields like Artificial Intelligence and Robotics, where I mastered the utilization and synchronization of Python, MATLAB/Simulink, OriginLab and SolidWorks, etc.
 
-Moreover, I am an excellent collaborator and goot at project organization, design thinking and problem solving, which always encourage me to undertake the leader's responsibility in teamwork and manage a team with the highest efficiency.
+Moreover, I am an excellent collaborator with years of experience in project organization and problem solving, which always encourage me to undertake the leader's responsibility in teamwork and manage a team with the highest efficiency.
 
 Another Me
 ------
