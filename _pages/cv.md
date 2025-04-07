@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my CV/Resume [HERE](/files/JingyuanLi_Resume.pdf) ~
-Download my CV/Resume in Chinese version [HERE](/files/李敬元-简历.pdf) ~
+* Download my CV/Resume [HERE](/files/JingyuanLi_Resume.pdf) ~
+* Download my CV/Resume in Chinese version [HERE](/files/李敬元-简历.pdf) ~
 
 Education
 -------
